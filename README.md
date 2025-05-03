@@ -12,9 +12,6 @@ A desktop application that lets you control your PC using Urdu voice commands.
 - Smart fuzzy matching for similar commands
 - Simple and clean PyQt5 GUI
 
-## Demo
-![screenshot](assets/screenshot.png)
-
 ## Getting Started
 
 ### Requirements
